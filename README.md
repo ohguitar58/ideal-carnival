@@ -8,3 +8,15 @@ Plus, you'll learn how to work with the popular GitHub website to explore existi
   - [x] One
   - [ ] Two
 - [ ] Second
+
+
+`#FABCDE`
+💔
+
+<details>
+<summary>collapsed</summary>
+
+# Header
+
+This is the copy for the collapsed text.
+</details>
