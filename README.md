@@ -20,3 +20,17 @@ Plus, you'll learn how to work with the popular GitHub website to explore existi
 
 This is the copy for the collapsed text.
 </details>
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+```
+
+
+[!NOTE]
+A note
+[!IMPORTANT]
+important
+[!WARNING]
+warning
