@@ -34,3 +34,8 @@ A note
 important
 [!WARNING]
 warning
+=======
+Footnotes[^1]
+
+[^1]:reference
+
